@@ -1,3 +1,3 @@
-module github.com/xiarong/ourgo
+module github.com/xiarong715/ourgo
 
 go 1.20
